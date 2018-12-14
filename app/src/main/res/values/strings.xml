@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">FoodSavers</string>
+    <string name="app_name">Food_Save</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Map</string>
+    <string name="title_notifications">Me</string>
+    <string name="restaurant1">Restaurant1</string>
+    <string name="nothing">nothing</string>
+    <string name="restaurant_information">Restaurant information</string>
+    <string name="textview">TextView</string>
 </resources>
